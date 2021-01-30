@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+###  • 大家好，很高兴在这个机缘巧合的情况下认识大家
+###  • 我叫安泽铭，来自甘肃
+###  • 学而不思则罔，思而不学则殆
 <!--
 **anzeming123/anzeming123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
